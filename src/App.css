@@ -1,0 +1,47 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+
+.container {
+  /* margin: auto; */
+  padding: 8vh;
+  /* max-width: 80%; */
+}
+
+.card-header {
+  background-color: blue;
+  color: aliceblue;
+  padding: 3vh;
+}
+
+div > * {
+  padding: 1vh;
+}
+
+input[type="text"] {
+  padding: 3px;
+  margin: 3vh;
+  border-radius: 10px;
+  outline: none;
+  font-weight: 800;
+  max-width: 80%;
+}
+
+input[type="submit"] {
+  background-color: green;
+  color: white;
+  padding: 5px;
+}
+
+span {
+  font-size: 20px;
+  font-weight: 800;
+  color: red;
+}
+
+.text {
+  text-align: center;
+  font-weight: 800;
+  font-size: 15px;
+}
